@@ -1,0 +1,13 @@
+# default values for blocks
+default height:25 width:50 stroke:color(black) hit_points:2
+
+# block definitions
+bdef symbol:a fill:image(block_images/israel.jpg) fill-2:image(block_images/country1.png)
+bdef symbol:b fill:image(block_images/israel.jpg) fill-2:image(block_images/country2.png)
+bdef symbol:c fill:image(block_images/israel.jpg) fill-2:image(block_images/country3.png)
+bdef symbol:d fill:image(block_images/israel.jpg) fill-2:image(block_images/country4.gif)
+bdef symbol:e fill:image(block_images/israel.jpg) fill-2:image(block_images/country7.png)
+
+
+# spacers definitions
+sdef symbol:- width:50

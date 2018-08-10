@@ -1,0 +1,10 @@
+e:(e)	Easy
+
+definitions/easy_level_definitions.txt
+
+h:(h)	Hard
+
+definitions/hard_level_definitions.txt
+m:(m)	MyLevel
+
+definitions/my_level_definitions.txt
